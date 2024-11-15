@@ -1,0 +1,8 @@
+prefix=/home/zhouru2/pro/install
+
+Name: depth_yolo
+Description: Description of depth_yolo
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

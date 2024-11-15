@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/find_port.dir/current/samples/find_port.c.o  -o /home/zhouru2/pro/devel/lib/urg_c/find_port -Wl,-rpath,/home/zhouru2/pro/devel/lib: /home/zhouru2/pro/devel/lib/libopen_urg_sensor.so /home/zhouru2/pro/devel/lib/libliburg_c.so -lrt -lm 

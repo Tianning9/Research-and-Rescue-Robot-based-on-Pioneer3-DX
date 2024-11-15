@@ -1,0 +1,1 @@
+/usr/bin/cc -O3 -DNDEBUG  -rdynamic CMakeFiles/get_distance.dir/current/samples/get_distance.c.o  -o /home/zhouru2/pro/devel/lib/urg_c/get_distance -Wl,-rpath,/home/zhouru2/pro/devel/lib: /home/zhouru2/pro/devel/lib/libopen_urg_sensor.so /home/zhouru2/pro/devel/lib/libliburg_c.so -lrt -lm 

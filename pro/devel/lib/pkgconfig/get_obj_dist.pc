@@ -1,0 +1,8 @@
+prefix=/home/zhouru2/pro/devel
+
+Name: get_obj_dist
+Description: Description of get_obj_dist
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
